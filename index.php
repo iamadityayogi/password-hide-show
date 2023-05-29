@@ -1,7 +1,4 @@
-This code is for password hide/show...
-
-password hide show
-
+<!-- This code is for password hide/show... -->
 <input type="password" onkeyup="check_password()" value="" required name="old_password" class="form-control" placeholder="Old Password" id="old_password"><span toggle="#old_password" class="fa fa-fw fa-eye field-icon toggle-password"></span>
 
 <script>
